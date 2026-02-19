@@ -7,3 +7,7 @@ imbalanced-learn
 joblib
 matplotlib
 seaborn
+gradio 
+joblib 
+numpy 
+scikit-learn 
