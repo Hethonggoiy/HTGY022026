@@ -11,3 +11,7 @@ gradio
 joblib 
 numpy 
 scikit-learn 
+gradio 
+joblib 
+numpy 
+scikit-learn 
