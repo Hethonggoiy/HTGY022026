@@ -1,0 +1,14 @@
+# Office 
+~$*.doc*
+~$*.xls*
+Thumbs.db
+Desktop.ini
+
+# Research Data 
+*.zip
+*.7z
+*.rar
+*.mp4
+*.wav
+/data/
+/backup/
